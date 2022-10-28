@@ -22,4 +22,6 @@
     (꼭 발표하지 않아도 참석 가능합니다!)
   * 세미나 이후 네트워킹 시간을 가질 예정입니다.
 * 첫 번째 PARTNER SEMINAR는 네이버 1784에서 진행하고, 두 번째부터는 다른 장소에서 진행 예정입니다! 
+
+
 ![image](https://user-images.githubusercontent.com/1983469/198497493-09ab9df7-85d2-41d5-be6d-df32ed216881.png)
