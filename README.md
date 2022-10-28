@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/1983469/198497670-d2be7b9e-54c9-4b4b-8ec9-b0e1769e046c.png)
+
 # D2 CAMPUS PARTNER SEMINAR
 
 * 일시 : 11월 25일(금) 14:00~18:00
